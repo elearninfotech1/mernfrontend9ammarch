@@ -1,0 +1,11 @@
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar ul li {
+    margin-bottom: 20px;
+}
+
+textarea {
+    height: 120px
+}

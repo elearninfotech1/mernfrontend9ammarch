@@ -1,0 +1,45 @@
+.bread {
+    background-color: rgb(13, 5, 104);
+    padding: 27px 0px;
+}
+
+.bread h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+}
+
+.bx_shadow {
+    box-shadow: 1px 1px 17px 0px #918cce;
+    padding: 20px 10px;
+}
+
+.bx_shadow input[type="submit"] {
+    background-color: rgb(13, 5, 104);
+    border: none;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 10px 0px;
+}
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.title span,
+.aboutus h6 {
+    color: red;
+    font-weight: bold;
+}
+
+.aboutus p {
+    text-align: justify;
+    line-height: 28px;
+}
+
+.aboutus p i {
+    color: blueviolet;
+    font-size: 26px;
+}
