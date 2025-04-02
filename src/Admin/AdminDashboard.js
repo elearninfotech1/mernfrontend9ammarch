@@ -11,7 +11,7 @@ const AdminDashboard = () => {
 
   useEffect(() => {
     axios
-      .get(`https://mernback9ammarch-1.onrender.com/admindashboard`, {
+      .get(`https://mernback9ammarch.onrender.com/admindashboard`, {
         headers: {
           "x-token": token,
         },
