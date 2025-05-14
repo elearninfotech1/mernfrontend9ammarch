@@ -11,7 +11,7 @@ const Admin = () => {
   const addStudent = (e) => {
     e.preventDefault();
     axios
-      .post(`https://mernback9ammarch.onrender.com/login`, { email, password })
+      .post(`https://mernback4pmmay.onrender.com/login`, { email, password })
       .then((res) => {
         setToken(res.data.token);
       })
