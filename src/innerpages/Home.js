@@ -7,7 +7,7 @@ const Home = () => {
   const [data, setData] = useState([]);
   useEffect(() => {
     axios
-      .get(`https://mernback9ammarch.onrender.com/treatment`)
+      .get(`https://mernback4pmmay.onrender.com/treatment`)
       .then((res) => {
         setData(res.data);
       })
