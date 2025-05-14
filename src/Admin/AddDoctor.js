@@ -12,7 +12,7 @@ const AddDoctor = () => {
   const addTreatment = (e) => {
     e.preventDefault();
     axios
-      .post(`https://mernback9ammarch.onrender.com/doctor`, {
+      .post(`https://mernback4pmmay.onrender.com/doctor`, {
         tname,
         dname,
         exp,
