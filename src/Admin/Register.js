@@ -12,7 +12,7 @@ const Register = () => {
   const addStudent = (e) => {
     e.preventDefault();
     axios
-      .post(`https://mernback9ammarch.onrender.com/singup`, {
+      .post(`https://mernback4pmmay.onrender.com/singup`, {
         name,
         email,
         password,
